@@ -1,4 +1,4 @@
-# 05_TypeScript_Word_Counter
+# TypeScript_Word_Counter
 
 Simple Word Counter CLI application using inquirer, chalk and chalk-animation libraries.
 
